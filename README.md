@@ -13,7 +13,7 @@
 
 [![Discord](https://img.shields.io/badge/ossmxun-%23515be6?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/873441689660981258)
 
-[![Misskey](https://img.shields.io/badge/ossmxun-%23A1CA03?style=for-the-badge&logo=misskey&logoColor=white)](https://misskey.io/@oSsmXun)
+[![Misskey](https://img.shields.io/badge/@ossmxun-%23A1CA03?style=for-the-badge&logo=misskey&logoColor=white)](https://misskey.io/@oSsmXun)
 
 ## | 🛠️ LANGUAGES |
 
