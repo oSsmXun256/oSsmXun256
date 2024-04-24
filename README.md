@@ -24,6 +24,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=for-the-badge)
 
+![Node.js](https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Node.js/Node.js.png)
+
 ## | 🖌️ EDITER |
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=for-the-badge)
