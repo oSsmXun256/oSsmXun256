@@ -1,4 +1,4 @@
-![header](https://pbs.twimg.com/profile_banners/1707909446154985472/1700231282)
+![header](https://vrc.ossmxun.net/img/avaters/0.8.1/wall.png)
 
 ## お刺身くん
 趣味でプログラミングしてる学生。
