@@ -7,7 +7,7 @@
 
 ## | 🔗 LINKS |
 
-[![YouTube](https://img.shields.io/badge/@oSsmXun256-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oSsmXun256)
+[![YouTube](https://img.shields.io/badge/@oSsmXun256-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oSsmXun)
 
 [![Twitter(𝕏)](https://img.shields.io/badge/@oSsmXun-%23000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/oSsmXun/)
 
@@ -24,10 +24,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=for-the-badge)
 
-![Node.js](https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Node.js/Node.js.png)
+![Node.js](https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/Node.js/Node.js.png?raw=true)
 
 ## | 🖌️ EDITER |
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=for-the-badge)
-![Atom](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=for-the-badge)
-![Intellij IDEA](https://img.shields.io/badge/-intellij%20IDEA-000.svg?logo=intellij-idea&style=for-the-badge)
