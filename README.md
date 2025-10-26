@@ -1,4 +1,4 @@
-![header](https://vrc.ossmxun.net/img/avaters/0.8.1/wall.png)
+![header](https://ossmxun.net/img/original/new_header.png)
 
 ## お刺身くん
 趣味でプログラミングしてる学生。
@@ -7,7 +7,7 @@
 
 ## | 🔗 LINKS |
 
-[![YouTube](https://img.shields.io/badge/@oSsmXun256-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oSsmXun)
+[![YouTube](https://img.shields.io/badge/@oSsmXun-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oSsmXun)
 
 [![Twitter(𝕏)](https://img.shields.io/badge/@oSsmXun-%23000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/oSsmXun/)
 
@@ -18,7 +18,6 @@
 ## | 🛠️ LANGUAGES |
 
 ![JavaScript](https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=for-the-badge)
