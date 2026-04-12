@@ -11,7 +11,7 @@
 
 [![Twitter(𝕏)](https://img.shields.io/badge/@oSsmXun-%23000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/oSsmXun/)
 
-[![BlueSky](https://img.shields.io/badge/ossmxun.net-%231185FE?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/ossmxun.net)
+[![BlueSky](https://img.shields.io/badge/ossmxun.net-%231185FE?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/ossmxun.net)
 
 [![Discord](https://img.shields.io/badge/ossmxun-%23515be6?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/873441689660981258)
 
